@@ -2,10 +2,10 @@ import { headers } from "next/headers"
 import { ImageResponse } from "next/og"
 
 export const runtime = "edge"
-export const alt = "Changelog Template"
+export const alt = "ExactTempo Product Updates"
 export const size = {
-  width: 1200,
-  height: 630,
+  width: 900,
+  height: 240,
 }
 export const contentType = "image/png"
 

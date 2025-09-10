@@ -1,18 +1,11 @@
 export const siteConfig = {
-  name: "Changelog Template",
-  url: "https://changelog-magicui.vercel.app",
-  description: "A minimal changelog template built using Next.js.",
-  links: {
-    twitter: "https://x.com/magicuidesign",
-    github: "https://github.com/magicuidesign",
-  },
+  name: "ExactTempo Product Updates",
+  url: "https://updates.exacttempo.com",
+  description: "Product updates and changelog for ExactTempo.",
+  links: {},
   keywords: [
     "Changelog",
-    "Next.js",
-    "Fumadocs",
-    "Tailwind CSS",
-    "shadcn",
-    "Magic UI",
+    "Product Updates",
   ],
 }
 
