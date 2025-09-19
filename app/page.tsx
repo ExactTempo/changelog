@@ -39,7 +39,16 @@ export default function HomePage() {
       <div className="border-b border-border/50">
         <div className="max-w-5xl mx-auto relative">
           <div className="p-3 flex items-center justify-between">
-            <h1 className="text-3xl font-semibold tracking-tight">Product Updates</h1>
+            <div className="flex items-center gap-x-4">
+              <img
+                src="/ExactTempo-logo-820x158.png"
+                alt="ExactTempo Logo"
+                className="h-7 w-auto"
+              />
+              <h1 className="text-2xl font-semibold tracking-tight">
+                Product Updates
+              </h1>
+            </div>
             <ThemeToggle />
           </div>
         </div>
